@@ -1,0 +1,5 @@
+F:\Repo\Sampleapp\Sampleapp\bin\Sampleapp.dll
+F:\Repo\Sampleapp\Sampleapp\bin\Sampleapp.pdb
+F:\Repo\Sampleapp\Sampleapp\obj\Debug\Sampleapp.csprojResolveAssemblyReference.cache
+F:\Repo\Sampleapp\Sampleapp\obj\Debug\Sampleapp.dll
+F:\Repo\Sampleapp\Sampleapp\obj\Debug\Sampleapp.pdb
