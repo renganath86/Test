@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
     </div>
     </form>
 </body>
